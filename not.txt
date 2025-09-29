@@ -1,3 +1,0 @@
-python3 train_botanix_tflite.py \
-  --data_dir ./data/botanix-dataset \
-  --out_dir ./outputs \
