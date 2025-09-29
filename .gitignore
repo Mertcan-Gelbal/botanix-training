@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Proje
+data/
+dataset/
+outputs/
+logs/
+saved_model/
+*.tflite
+*.h5
+*.onnx
+*.ckpt
